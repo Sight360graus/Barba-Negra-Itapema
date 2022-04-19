@@ -1,0 +1,39 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Sight360 graus
+
+### Title
+tour.name = Barbearia Barba Negra
+
+## Skin
+
+### Button
+Button_5305157A_420F_9749_41B8_1555788DE6A2.label = SAIBA MAIS
+
+## Media
+
+### Title
+panorama_35884318_3F03_28A0_41C7_231DCF683DA0.label = SIGHT 360 GRAUS
+panorama_36E36C0D_3F03_78A0_41BE_4F6021AD3E31.label = SIGHT 360 GRAUS
+panorama_36E70090_3F03_29A0_41C5_1DC2B1698305.label = SIGHT 360 GRAUS
+panorama_36E70168_3F03_2B60_41C1_FB9F5CB6BED0.label = SIGHT 360 GRAUS
+panorama_36E7E750_3F03_28A0_41CA_093076B83388.label = SIGHT 360 GRAUS
+panorama_36E7EBD1_3F03_FFA0_41C5_66D3866A91B8.label = SIGHT 360 GRAUS
+
+## Action
+
+### URL
+LinkBehaviour_2A61EB79_3FFD_FF60_41CD_49EDA7A5259A.source = https://www.google.com/maps/place/Barba+Negra+-+Barbearia+em+Itapema/@-27.1054853,-48.6148198,15z/data=!4m5!3m4!1s0x0:0x25dfacd52582be9e!8m2!3d-27.1054853!4d-48.6148198
+LinkBehaviour_2A646B77_3FFD_FF60_41CC_C23305AD3206.source = https://www.facebook.com/barbanegraitapema
+LinkBehaviour_2A659B7C_3FFD_FF60_41C2_42BEF5E41CDD.source = https://api.whatsapp.com/send?phone=5547991224892&text=Ol%C3%A1%20%2C%20vim%20pelo%20GOOGLE%20e%20gostaria%20de%20uma%20informa%C3%A7%C3%A3o!
+LinkBehaviour_2A6AFB74_3FFD_FF60_41CE_1B687CFBD5E9.source = https://www.instagram.com/barbanegra.itapema/
+LinkBehaviour_2C67FF42_3F1D_38A1_41CC_06DB6AE6AD69.source = https://www.instagram.com/barbanegra.itapema/
+LinkBehaviour_2D627E50_3F1D_18A0_41C3_BDEBB0AB1B15.source = https://api.whatsapp.com/send?phone=5547991224892&text=Ol%C3%A1%20%2C%20vim%20pelo%20GOOGLE%20e%20gostaria%20de%20uma%20informa%C3%A7%C3%A3o!
+LinkBehaviour_2DAC6A94_3F1D_79A0_41B5_BF718E284FDE.source = https://www.facebook.com/barbanegraitapema
+LinkBehaviour_2DDA8FA0_3F1F_F7E1_41C4_540A8E72E773.source = https://www.google.com/maps/place/Barba+Negra+-+Barbearia+em+Itapema/@-27.1054853,-48.6148198,15z/data=!4m5!3m4!1s0x0:0x25dfacd52582be9e!8m2!3d-27.1054853!4d-48.6148198
+LinkBehaviour_2E9266E5_3F02_E960_41C7_B770DAEC4D07.source = https://www.knucklehead.com.br/
+LinkBehaviour_4CBE8584_4219_97B8_41C8_02808213E570.source = TEL:047988930076
+LinkBehaviour_4CF50F16_4208_94D8_41BB_3484DADF7F6C.source = TEL:047988930076
